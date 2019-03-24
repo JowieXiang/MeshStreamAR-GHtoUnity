@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LF" size="1.000000 0.806452" />
+    <ImageTarget name="JQGJ" size="1.000000 0.088167" />
+    <ImageTarget name="VIP" size="1.000000 1.566667" />
+    <ImageTarget name="samson" size="1.000000 1.461538" />
+    <ImageTarget name="effle" size="1.000000 1.384615" />
+  </Tracking>
+</QCARConfig>
